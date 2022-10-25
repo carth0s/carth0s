@@ -7,4 +7,4 @@
   
 - 🌎 I'm a Portuguese speaker who's trying my best in English and Spanish, maybe French next... <br>
 
-- ⭐ I'm also love everything about design.
+- ⭐ I also love everything about design.
