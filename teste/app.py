@@ -20,6 +20,6 @@ if st.button("Verificar Necessidade de Irrigação"):
         st.success("✅ Solo não precisa ser irrigado.")
 
 # Exibir CSV original para contexto
-df = pd.read_csv("dados_umidade_irrigacao.csv")
+df = pd.read_csv("dataset_umidade.csv")
 st.subheader("📊 Base de Dados Simulada")
 st.dataframe(df.head(20))
