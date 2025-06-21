@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Carregar modelo
-modelo = joblib.load("teste/modelo_irrigacao.pkl")
+modelo = joblib.load("modelo_irrigacao.pkl")
 
 st.title("💧 Previsão de Irrigação - FarmTech Solutions")
 st.markdown("Este sistema decide se é necessário irrigar com base na umidade do solo.")
@@ -20,6 +20,6 @@ if st.button("Verificar Necessidade de Irrigação"):
         st.success("✅ Solo não precisa ser irrigado.")
 
 # Exibir CSV original para contexto
-df = pd.read_csv("teste/dataset_umidade.csv")
+df = pd.read_csv("dataset_umidade.csv")
 st.subheader("📊 Base de Dados Simulada")
 st.dataframe(df.head(20))
