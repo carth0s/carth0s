@@ -4,4 +4,4 @@ Sou estudante de Inteligência Artificial na FIAP e tenho experiência acadêmic
 
 #DataScience #MachineLearning #Python #SQL #InteligenciaArtificial
 
-[https://github.com/carth0s/FASE4_CAP1_FARMTECH](https://www.linkedin.com/in/carth0s/)
+[LinkedIn](https://www.linkedin.com/in/carth0s/)
