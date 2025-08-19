@@ -1,10 +1,7 @@
-## Olá 👋
+## Olá
 
-### My name is Carlos Nascimento and I live in São Paulo. 🇧🇷 
-### I'm a Full Stack Developer student. 💻
+Sou estudante de Inteligência Artificial na FIAP e tenho experiência acadêmica com Python, SQL e Machine Learning, aplicando bibliotecas como Pandas, Numpy, Scikit-learn e Matplotlib para análise e visualização de dados. Participei de projetos práticos, como o FarmTech Solutions, no qual desenvolvi um modelo preditivo para irrigação do solo, integrando ESP32, Python e Streamlit. Tenho interesse especial em análise de grandes volumes de dados, estatística e soluções baseadas em inteligência artificial.
 
-- 🌱 I'm currently learning: <b> HTML - CSS - JavaScript - Java </b> <br>
-  
-- 🌎 I'm a Portuguese speaker who's trying my best in English and Spanish, maybe French next... <br>
+#DataScience #MachineLearning #Python #SQL #InteligenciaArtificial
 
-- ⭐ I also love everything about design.
+[https://github.com/carth0s/FASE4_CAP1_FARMTECH](https://www.linkedin.com/in/carth0s/)
